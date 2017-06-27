@@ -55,3 +55,5 @@ Distribute service is wired up with Build to send a notification to testers ever
 Build, Test & Distribute services constitute the Mobile DevOps cycle of continuous integration and distribution.   
 
 ***Note - All trademarks and registered trademarks used in this logo quiz are the property of their respective owners.***
+
+Add new unit test
